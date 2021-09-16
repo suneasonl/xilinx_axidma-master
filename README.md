@@ -1,4 +1,4 @@
-# Xilinx AXI DMA Driver and Library (Quick Start Guide) 1615ly
+# Xilinx AXI DMA Driver and Library (Quick Start Guide)  0916-15：03
 
 [![Build Status](https://travis-ci.org/bperez77/xilinx_axidma.svg?branch=master)](https://travis-ci.org/bperez77/xilinx_axidma)
 
